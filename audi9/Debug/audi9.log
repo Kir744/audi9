@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\Кирилл\source\repos\audi9\audi9\main.c(19,21): warning C4047: функция: "LPSTR" отличается по уровням косвенного обращения от "char (*)[267]"
+C:\Users\Кирилл\source\repos\audi9\audi9\main.c(19,21): warning C4024: GetUserNameA: различные типы для формального и фактического параметров 1
+C:\Users\Кирилл\source\repos\audi9\audi9\main.c(30,26): warning C4047: функция: "LPSTR" отличается по уровням косвенного обращения от "char (*)[267]"
+C:\Users\Кирилл\source\repos\audi9\audi9\main.c(30,26): warning C4024: GetComputerNameA: различные типы для формального и фактического параметров 1
+C:\Users\Кирилл\source\repos\audi9\audi9\main.c(39,20): warning C4244: =: преобразование "time_t" в "long", возможна потеря данных
+  audi9.vcxproj -> C:\Users\Кирилл\source\repos\audi9\Debug\audi9.exe
